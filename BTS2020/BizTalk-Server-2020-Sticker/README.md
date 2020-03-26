@@ -1,4 +1,4 @@
-# Unofficial BizTalk Server 2020 logo in vector format
+# BizTalk Server 2020 sticker
 This package is a collection of 3 different image formats of the new BizTalk Server 2020 sticker, two of them are available in vector format that will allow you to use and resize without losing quality:
 * BizTalkSticker.ai
 * BizTalkSticker.pdf
