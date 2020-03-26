@@ -5,7 +5,7 @@ This is a collection of 4 different image formats of the new Unofficial BizTalk 
 * BizTalkLogo-01.jpg
 * BizTalkLogoWhite-01.png
 
-![BizTalk Server 2020 logo](BizTalk Logo/BizTalkLogo-01.png)
+![BizTalk Server 2020 logo](media/BizTalkLogo-01.png)
 
 # About Us
 **Sandro Pereira** | [DevScope](http://www.devscope.net/) | MVP & MCTS BizTalk Server 2010 | [https://blog.sandro-pereira.com/](https://blog.sandro-pereira.com/) | [@sandro_asp](https://twitter.com/sandro_asp)
