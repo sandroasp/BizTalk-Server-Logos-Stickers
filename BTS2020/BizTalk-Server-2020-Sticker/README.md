@@ -4,7 +4,7 @@ This package is a collection of 3 different image formats of the new BizTalk Ser
 * BizTalkSticker.pdf
 * BizTalkSticker-01.png
 
-![BizTalk Server 2020 logo](BizTalk-Sticker/BizTalkSticker-01.png)
+![BizTalk Server 2020 logo](media/BizTalk-Server-2020-sticker-small.png)
 
 # About Us
 **Sandro Pereira** | [DevScope](http://www.devscope.net/) | MVP & MCTS BizTalk Server 2010 | [https://blog.sandro-pereira.com/](https://blog.sandro-pereira.com/) | [@sandro_asp](https://twitter.com/sandro_asp)
